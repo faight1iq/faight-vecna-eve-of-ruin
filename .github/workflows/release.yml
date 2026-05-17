@@ -1,0 +1,42 @@
+name: Release Module
+
+on:
+  push:
+    tags:
+      - '*'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Get version from tag
+        id: version
+        run: echo "version=${GITHUB_REF_NAME}" >> $GITHUB_OUTPUT
+
+      - name: Update module.json version and download URL
+        run: |
+          sed -i 's|"version": ".*"|"version": "${{ steps.version.outputs.version }}"|' module.json
+          sed -i 's|/download/.*/|/download/${{ steps.version.outputs.version }}/|' module.json
+
+      - name: Create zip
+        run: |
+          cd ..
+          zip -r faight-vecna-eve-of-ruin/faight-vecna-eve-of-ruin.zip faight-vecna-eve-of-ruin/ \
+            -x "faight-vecna-eve-of-ruin/.git/*" \
+            -x "faight-vecna-eve-of-ruin/.github/*" \
+            -x "faight-vecna-eve-of-ruin/.gitignore" \
+            -x "faight-vecna-eve-of-ruin/faight-vecna-eve-of-ruin.zip"
+
+      - name: Create Release
+        uses: softprops/action-gh-release@v2
+        with:
+          files: |
+            faight-vecna-eve-of-ruin.zip
+            module.json
+          generate_release_notes: true
