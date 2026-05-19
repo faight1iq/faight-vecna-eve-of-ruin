@@ -1,0 +1,1049 @@
+[
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/_faight/modules/vecna-eve-of-ruin/pc-images/observer.Token.webp",
+    "sourcePath": "_faight/modules/vecna-eve-of-ruin/pc-images/observer.Token.webp",
+    "targetRepoPath": "assets/pc-images/observer.Token.webp",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/pc-images/observer.Token.webp",
+    "filename": "observer.Token.webp",
+    "targetFolder": "pc-images",
+    "referencedBy": [
+      "Scenes/CH00 Nest of the Eldritch Eye/00.01 A Sister's Grief"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/tokenizer/pc-images/observer.Token.webp",
+    "sourcePath": "tokenizer/pc-images/observer.Token.webp",
+    "targetRepoPath": "assets/pc-images/observer.Token.webp",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/pc-images/observer.Token.webp",
+    "filename": "observer.Token.webp",
+    "targetFolder": "pc-images",
+    "referencedBy": [
+      "Scenes/01.10 Neverdeath/01-10-C0 Graveyard",
+      "Scenes/01.20 Evernight/01-20a-01 City Map",
+      "Scenes/01.00 Main/01.00 Emberbreeze Estate"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/tokenizer/pc-images/map_pin.Token.webp",
+    "sourcePath": "tokenizer/pc-images/map_pin.Token.webp",
+    "targetRepoPath": "assets/pc-images/map_pin.Token.webp",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/pc-images/map_pin.Token.webp",
+    "filename": "map_pin.Token.webp",
+    "targetFolder": "pc-images",
+    "referencedBy": [
+      "Scenes/CH04: The Ruined Colossus/04.01 Mount Ironrot Outskirts"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/worlds/faight-vecna-b6dc7092/assets/scenes/wYb3VDc2CXkPMjCE-thumb.webp",
+    "sourcePath": "worlds/faight-vecna-b6dc7092/assets/scenes/wYb3VDc2CXkPMjCE-thumb.webp",
+    "targetRepoPath": "assets/misc/tiles/wYb3VDc2CXkPMjCE-thumb.webp",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/misc/tiles/wYb3VDc2CXkPMjCE-thumb.webp",
+    "filename": "wYb3VDc2CXkPMjCE-thumb.webp",
+    "targetFolder": "misc/tiles",
+    "referencedBy": [
+      "Scenes/CH05: The Death House/05.03.01 Castle Dining Room"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/worlds/faight-vecna-b6dc7092/assets/scenes/NgVDXih9rf53xgC5-thumb.webp",
+    "sourcePath": "worlds/faight-vecna-b6dc7092/assets/scenes/NgVDXih9rf53xgC5-thumb.webp",
+    "targetRepoPath": "assets/misc/tiles/NgVDXih9rf53xgC5-thumb.webp",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/misc/tiles/NgVDXih9rf53xgC5-thumb.webp",
+    "filename": "NgVDXih9rf53xgC5-thumb.webp",
+    "targetFolder": "misc/tiles",
+    "referencedBy": [
+      "Scenes/CH07C: Sword of Kas/07c.10.10 Museum (GF)"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/worlds/faight-vecna-b6dc7092/assets/scenes/LTAJTUOxMlFUn2lz-thumb.webp",
+    "sourcePath": "worlds/faight-vecna-b6dc7092/assets/scenes/LTAJTUOxMlFUn2lz-thumb.webp",
+    "targetRepoPath": "assets/misc/tiles/LTAJTUOxMlFUn2lz-thumb.webp",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/misc/tiles/LTAJTUOxMlFUn2lz-thumb.webp",
+    "filename": "LTAJTUOxMlFUn2lz-thumb.webp",
+    "targetFolder": "misc/tiles",
+    "referencedBy": [
+      "Scenes/CH07C: Sword of Kas/07c.20.20 Astral Sea"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/media/home/tokenizer/npc-images/mordenkainen.Token.webp",
+    "sourcePath": "/media/home/tokenizer/npc-images/mordenkainen.Token.webp",
+    "targetRepoPath": "assets/pc-images/mordenkainen.Token.webp",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/pc-images/mordenkainen.Token.webp",
+    "filename": "mordenkainen.Token.webp",
+    "targetFolder": "pc-images",
+    "referencedBy": [
+      "Scenes/CH07E: The Treacherous Path/07e.010 Confrontation"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/media/home/_faight/_shared/tiles/objects/staff_of_vecna.png",
+    "sourcePath": "/media/home/_faight/_shared/tiles/objects/staff_of_vecna.png",
+    "targetRepoPath": "assets/pc-images/staff_of_vecna.png",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/pc-images/staff_of_vecna.png",
+    "filename": "staff_of_vecna.png",
+    "targetFolder": "pc-images",
+    "referencedBy": [
+      "Actors/CH07b: The Lords of Phandelver/Barakas the Cursed"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/media/home/_faight/_shared/tiles/UI/faight1iq_A_world_of_Warcraft_Icon_a_sailor_standing_with_one_f_ca8f0933-de3b-4b44-b234-c6513e81cde7-512x512.webp",
+    "sourcePath": "/media/home/_faight/_shared/tiles/UI/faight1iq_A_world_of_Warcraft_Icon_a_sailor_standing_with_one_f_ca8f0933-de3b-4b44-b234-c6513e81cde7-512x512.webp",
+    "targetRepoPath": "assets/pc-images/faight1iq_A_world_of_Warcraft_Icon_a_sailor_standing_with_one_f_ca8f0933-de3b-4b44-b234-c6513e81cde7-512x512.webp",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/pc-images/faight1iq_A_world_of_Warcraft_Icon_a_sailor_standing_with_one_f_ca8f0933-de3b-4b44-b234-c6513e81cde7-512x512.webp",
+    "filename": "faight1iq_A_world_of_Warcraft_Icon_a_sailor_standing_with_one_f_ca8f0933-de3b-4b44-b234-c6513e81cde7-512x512.webp",
+    "targetFolder": "pc-images",
+    "referencedBy": [
+      "Actors/Stations/Captain",
+      "Actors/Stations/Ethernaut"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/media/home/_faight/_shared/tiles/UI/faight1iq_A_world_of_Warcraft_Icon_an_eye_with_a_gleam_that_res_8b02dcb7-156b-4087-8239-02ec7691350a-512x512.webp",
+    "sourcePath": "/media/home/_faight/_shared/tiles/UI/faight1iq_A_world_of_Warcraft_Icon_an_eye_with_a_gleam_that_res_8b02dcb7-156b-4087-8239-02ec7691350a-512x512.webp",
+    "targetRepoPath": "assets/pc-images/faight1iq_A_world_of_Warcraft_Icon_an_eye_with_a_gleam_that_res_8b02dcb7-156b-4087-8239-02ec7691350a-512x512.webp",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/pc-images/faight1iq_A_world_of_Warcraft_Icon_an_eye_with_a_gleam_that_res_8b02dcb7-156b-4087-8239-02ec7691350a-512x512.webp",
+    "filename": "faight1iq_A_world_of_Warcraft_Icon_an_eye_with_a_gleam_that_res_8b02dcb7-156b-4087-8239-02ec7691350a-512x512.webp",
+    "targetFolder": "pc-images",
+    "referencedBy": [
+      "Actors/Stations/Captain",
+      "Actors/Stations/Ethernaut"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/media/home/_faight/_shared/tiles/UI/faight1iq_A_world_of_Warcraft_Icon_Two_hands_clasping_symbolizi_09781a7a-9e29-450e-81fe-8bc775060a58-512x512.webp",
+    "sourcePath": "/media/home/_faight/_shared/tiles/UI/faight1iq_A_world_of_Warcraft_Icon_Two_hands_clasping_symbolizi_09781a7a-9e29-450e-81fe-8bc775060a58-512x512.webp",
+    "targetRepoPath": "assets/pc-images/faight1iq_A_world_of_Warcraft_Icon_Two_hands_clasping_symbolizi_09781a7a-9e29-450e-81fe-8bc775060a58-512x512.webp",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/pc-images/faight1iq_A_world_of_Warcraft_Icon_Two_hands_clasping_symbolizi_09781a7a-9e29-450e-81fe-8bc775060a58-512x512.webp",
+    "filename": "faight1iq_A_world_of_Warcraft_Icon_Two_hands_clasping_symbolizi_09781a7a-9e29-450e-81fe-8bc775060a58-512x512.webp",
+    "targetFolder": "pc-images",
+    "referencedBy": [
+      "Actors/Stations/Captain",
+      "Actors/Stations/Engineer",
+      "Actors/Stations/Ethernaut",
+      "Actors/Stations/Helmsman",
+      "Actors/Stations/Navigator"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/media/home/_faight/_shared/tiles/UI/faight1iq_A_world_of_Warcraft_Icon_666a6b16-59a7-4850-afa7-6de5e26babfc-512x512.webp",
+    "sourcePath": "/media/home/_faight/_shared/tiles/UI/faight1iq_A_world_of_Warcraft_Icon_666a6b16-59a7-4850-afa7-6de5e26babfc-512x512.webp",
+    "targetRepoPath": "assets/pc-images/faight1iq_A_world_of_Warcraft_Icon_666a6b16-59a7-4850-afa7-6de5e26babfc-512x512.webp",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/pc-images/faight1iq_A_world_of_Warcraft_Icon_666a6b16-59a7-4850-afa7-6de5e26babfc-512x512.webp",
+    "filename": "faight1iq_A_world_of_Warcraft_Icon_666a6b16-59a7-4850-afa7-6de5e26babfc-512x512.webp",
+    "targetFolder": "pc-images",
+    "referencedBy": [
+      "Actors/Stations/Captain",
+      "Actors/Stations/Engineer",
+      "Actors/Stations/Ethernaut",
+      "Actors/Stations/Gunner",
+      "Actors/Stations/Helmsman",
+      "Actors/Stations/Navigator"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/media/home/shower_of_sparks_icon.png",
+    "sourcePath": "/media/home/shower_of_sparks_icon.png",
+    "targetRepoPath": "assets/pc-images/shower_of_sparks_icon.png",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/pc-images/shower_of_sparks_icon.png",
+    "filename": "shower_of_sparks_icon.png",
+    "targetFolder": "pc-images",
+    "referencedBy": [
+      "Actors/Mishaps/Electrical Mishap"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/media/home/_faight/_shared/tiles/UI/faight1iq_A_world_of_Warcraft_Icon_Foreground_A_weapon_such_as__68831735-7c8f-4358-b086-6ec8ba86d442-512x512.webp",
+    "sourcePath": "/media/home/_faight/_shared/tiles/UI/faight1iq_A_world_of_Warcraft_Icon_Foreground_A_weapon_such_as__68831735-7c8f-4358-b086-6ec8ba86d442-512x512.webp",
+    "targetRepoPath": "assets/pc-images/faight1iq_A_world_of_Warcraft_Icon_Foreground_A_weapon_such_as__68831735-7c8f-4358-b086-6ec8ba86d442-512x512.webp",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/pc-images/faight1iq_A_world_of_Warcraft_Icon_Foreground_A_weapon_such_as__68831735-7c8f-4358-b086-6ec8ba86d442-512x512.webp",
+    "filename": "faight1iq_A_world_of_Warcraft_Icon_Foreground_A_weapon_such_as__68831735-7c8f-4358-b086-6ec8ba86d442-512x512.webp",
+    "targetFolder": "pc-images",
+    "referencedBy": [
+      "Actors/Stations/Engineer",
+      "Actors/Stations/Ethernaut"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/media/home/_faight/_shared/tiles/UI/faight1iq_Foreground_A_weapon_sword_axe_staff_or_other_prominen_95779a7c-5a77-45d9-9c9a-d013c06bc052-512x512.webp",
+    "sourcePath": "/media/home/_faight/_shared/tiles/UI/faight1iq_Foreground_A_weapon_sword_axe_staff_or_other_prominen_95779a7c-5a77-45d9-9c9a-d013c06bc052-512x512.webp",
+    "targetRepoPath": "assets/pc-images/faight1iq_Foreground_A_weapon_sword_axe_staff_or_other_prominen_95779a7c-5a77-45d9-9c9a-d013c06bc052-512x512.webp",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/pc-images/faight1iq_Foreground_A_weapon_sword_axe_staff_or_other_prominen_95779a7c-5a77-45d9-9c9a-d013c06bc052-512x512.webp",
+    "filename": "faight1iq_Foreground_A_weapon_sword_axe_staff_or_other_prominen_95779a7c-5a77-45d9-9c9a-d013c06bc052-512x512.webp",
+    "targetFolder": "pc-images",
+    "referencedBy": [
+      "Actors/Stations/Engineer",
+      "Actors/Stations/Ethernaut"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/media/home/_faight/_shared/tiles/UI/faight1iq_Foreground_A_weapon_sword_axe_staff_or_other_prominen_5d9093ee-639f-4e85-b5dd-ae6481ae038c-512x512.webp",
+    "sourcePath": "/media/home/_faight/_shared/tiles/UI/faight1iq_Foreground_A_weapon_sword_axe_staff_or_other_prominen_5d9093ee-639f-4e85-b5dd-ae6481ae038c-512x512.webp",
+    "targetRepoPath": "assets/pc-images/faight1iq_Foreground_A_weapon_sword_axe_staff_or_other_prominen_5d9093ee-639f-4e85-b5dd-ae6481ae038c-512x512.webp",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/pc-images/faight1iq_Foreground_A_weapon_sword_axe_staff_or_other_prominen_5d9093ee-639f-4e85-b5dd-ae6481ae038c-512x512.webp",
+    "filename": "faight1iq_Foreground_A_weapon_sword_axe_staff_or_other_prominen_5d9093ee-639f-4e85-b5dd-ae6481ae038c-512x512.webp",
+    "targetFolder": "pc-images",
+    "referencedBy": [
+      "Actors/Stations/Engineer",
+      "Actors/Stations/Ethernaut"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/media/home/_faight/_shared/tiles/UI/faight1iq_A_world_of_Warcraft_Icon_Foreground_a_sailing_ship_in_7f22db1a-2067-44c8-941c-ff50c4425307-512x512.webp",
+    "sourcePath": "/media/home/_faight/_shared/tiles/UI/faight1iq_A_world_of_Warcraft_Icon_Foreground_a_sailing_ship_in_7f22db1a-2067-44c8-941c-ff50c4425307-512x512.webp",
+    "targetRepoPath": "assets/pc-images/faight1iq_A_world_of_Warcraft_Icon_Foreground_a_sailing_ship_in_7f22db1a-2067-44c8-941c-ff50c4425307-512x512.webp",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/pc-images/faight1iq_A_world_of_Warcraft_Icon_Foreground_a_sailing_ship_in_7f22db1a-2067-44c8-941c-ff50c4425307-512x512.webp",
+    "filename": "faight1iq_A_world_of_Warcraft_Icon_Foreground_a_sailing_ship_in_7f22db1a-2067-44c8-941c-ff50c4425307-512x512.webp",
+    "targetFolder": "pc-images",
+    "referencedBy": [
+      "Actors/Stations/Engineer",
+      "Actors/Stations/Ethernaut",
+      "Actors/Stations/Navigator"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/media/home/_faight/_shared/tiles/UI/faight1iq_A_world_of_Warcraft_Icon_several_glowing_green_circle_7ac95332-a19d-4777-bc39-4b8e60d894c8-512x512.webp",
+    "sourcePath": "/media/home/_faight/_shared/tiles/UI/faight1iq_A_world_of_Warcraft_Icon_several_glowing_green_circle_7ac95332-a19d-4777-bc39-4b8e60d894c8-512x512.webp",
+    "targetRepoPath": "assets/pc-images/faight1iq_A_world_of_Warcraft_Icon_several_glowing_green_circle_7ac95332-a19d-4777-bc39-4b8e60d894c8-512x512.webp",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/pc-images/faight1iq_A_world_of_Warcraft_Icon_several_glowing_green_circle_7ac95332-a19d-4777-bc39-4b8e60d894c8-512x512.webp",
+    "filename": "faight1iq_A_world_of_Warcraft_Icon_several_glowing_green_circle_7ac95332-a19d-4777-bc39-4b8e60d894c8-512x512.webp",
+    "targetFolder": "pc-images",
+    "referencedBy": [
+      "Actors/Stations/Ethernaut",
+      "Actors/Stations/Helmsman"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/media/home/_faight/_shared/tiles/UI/faight1iq_A_world_of_Warcraft_Icon_a_large_glwing_green_circle__aed86b97-6ccd-472c-981a-61762a248656-512x512.webp",
+    "sourcePath": "/media/home/_faight/_shared/tiles/UI/faight1iq_A_world_of_Warcraft_Icon_a_large_glwing_green_circle__aed86b97-6ccd-472c-981a-61762a248656-512x512.webp",
+    "targetRepoPath": "assets/pc-images/faight1iq_A_world_of_Warcraft_Icon_a_large_glwing_green_circle__aed86b97-6ccd-472c-981a-61762a248656-512x512.webp",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/pc-images/faight1iq_A_world_of_Warcraft_Icon_a_large_glwing_green_circle__aed86b97-6ccd-472c-981a-61762a248656-512x512.webp",
+    "filename": "faight1iq_A_world_of_Warcraft_Icon_a_large_glwing_green_circle__aed86b97-6ccd-472c-981a-61762a248656-512x512.webp",
+    "targetFolder": "pc-images",
+    "referencedBy": [
+      "Actors/Stations/Ethernaut",
+      "Actors/Stations/Helmsman"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/media/home/_faight/_shared/tiles/UI/faight1iq_A_world_of_Warcraft_Icon_Foreground_A_stylized_imposi_ae2c0632-0adc-4de1-91d6-1d83358ec9ef-512x512.webp",
+    "sourcePath": "/media/home/_faight/_shared/tiles/UI/faight1iq_A_world_of_Warcraft_Icon_Foreground_A_stylized_imposi_ae2c0632-0adc-4de1-91d6-1d83358ec9ef-512x512.webp",
+    "targetRepoPath": "assets/pc-images/faight1iq_A_world_of_Warcraft_Icon_Foreground_A_stylized_imposi_ae2c0632-0adc-4de1-91d6-1d83358ec9ef-512x512.webp",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/pc-images/faight1iq_A_world_of_Warcraft_Icon_Foreground_A_stylized_imposi_ae2c0632-0adc-4de1-91d6-1d83358ec9ef-512x512.webp",
+    "filename": "faight1iq_A_world_of_Warcraft_Icon_Foreground_A_stylized_imposi_ae2c0632-0adc-4de1-91d6-1d83358ec9ef-512x512.webp",
+    "targetFolder": "pc-images",
+    "referencedBy": [
+      "Actors/Stations/Ethernaut",
+      "Actors/Stations/Gunner"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/media/home/_faight/_shared/tiles/UI/faight1iq_A_world_of_Warcraft_Icon_Foreground_A_large_imposing__5e0af3f9-112e-43d3-a5e7-4491a1d1d9fc-512x512.webp",
+    "sourcePath": "/media/home/_faight/_shared/tiles/UI/faight1iq_A_world_of_Warcraft_Icon_Foreground_A_large_imposing__5e0af3f9-112e-43d3-a5e7-4491a1d1d9fc-512x512.webp",
+    "targetRepoPath": "assets/pc-images/faight1iq_A_world_of_Warcraft_Icon_Foreground_A_large_imposing__5e0af3f9-112e-43d3-a5e7-4491a1d1d9fc-512x512.webp",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/pc-images/faight1iq_A_world_of_Warcraft_Icon_Foreground_A_large_imposing__5e0af3f9-112e-43d3-a5e7-4491a1d1d9fc-512x512.webp",
+    "filename": "faight1iq_A_world_of_Warcraft_Icon_Foreground_A_large_imposing__5e0af3f9-112e-43d3-a5e7-4491a1d1d9fc-512x512.webp",
+    "targetFolder": "pc-images",
+    "referencedBy": [
+      "Actors/Stations/Ethernaut",
+      "Actors/Stations/Gunner"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/media/home/_faight/_shared/tiles/UI/faight1iq_A_world_of_Warcraft_Icon_Foreground_A_large_imposing__24425638-f511-4b95-aa3e-82a1e552d316-512x512.webp",
+    "sourcePath": "/media/home/_faight/_shared/tiles/UI/faight1iq_A_world_of_Warcraft_Icon_Foreground_A_large_imposing__24425638-f511-4b95-aa3e-82a1e552d316-512x512.webp",
+    "targetRepoPath": "assets/pc-images/faight1iq_A_world_of_Warcraft_Icon_Foreground_A_large_imposing__24425638-f511-4b95-aa3e-82a1e552d316-512x512.webp",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/pc-images/faight1iq_A_world_of_Warcraft_Icon_Foreground_A_large_imposing__24425638-f511-4b95-aa3e-82a1e552d316-512x512.webp",
+    "filename": "faight1iq_A_world_of_Warcraft_Icon_Foreground_A_large_imposing__24425638-f511-4b95-aa3e-82a1e552d316-512x512.webp",
+    "targetFolder": "pc-images",
+    "referencedBy": [
+      "Actors/Stations/Ethernaut",
+      "Actors/Stations/Gunner"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/media/home/_faight/_shared/tiles/UI/faight1iq_A_world_of_Warcraft_Icon_Foreground_A_stylized_naval__fa893c73-0301-4245-a2e0-111a84f6854a-512x512.webp",
+    "sourcePath": "/media/home/_faight/_shared/tiles/UI/faight1iq_A_world_of_Warcraft_Icon_Foreground_A_stylized_naval__fa893c73-0301-4245-a2e0-111a84f6854a-512x512.webp",
+    "targetRepoPath": "assets/pc-images/faight1iq_A_world_of_Warcraft_Icon_Foreground_A_stylized_naval__fa893c73-0301-4245-a2e0-111a84f6854a-512x512.webp",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/pc-images/faight1iq_A_world_of_Warcraft_Icon_Foreground_A_stylized_naval__fa893c73-0301-4245-a2e0-111a84f6854a-512x512.webp",
+    "filename": "faight1iq_A_world_of_Warcraft_Icon_Foreground_A_stylized_naval__fa893c73-0301-4245-a2e0-111a84f6854a-512x512.webp",
+    "targetFolder": "pc-images",
+    "referencedBy": [
+      "Actors/Stations/Ethernaut",
+      "Actors/Stations/Helmsman"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/media/home/_faight/_shared/tiles/UI/faight1iq_A_world_of_Warcraft_Icon_a_blue_sword_with_the_hilt_i_929a3d87-7e5a-4ccc-b27b-1e56c0c5cd7f-512x512.webp",
+    "sourcePath": "/media/home/_faight/_shared/tiles/UI/faight1iq_A_world_of_Warcraft_Icon_a_blue_sword_with_the_hilt_i_929a3d87-7e5a-4ccc-b27b-1e56c0c5cd7f-512x512.webp",
+    "targetRepoPath": "assets/pc-images/faight1iq_A_world_of_Warcraft_Icon_a_blue_sword_with_the_hilt_i_929a3d87-7e5a-4ccc-b27b-1e56c0c5cd7f-512x512.webp",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/pc-images/faight1iq_A_world_of_Warcraft_Icon_a_blue_sword_with_the_hilt_i_929a3d87-7e5a-4ccc-b27b-1e56c0c5cd7f-512x512.webp",
+    "filename": "faight1iq_A_world_of_Warcraft_Icon_a_blue_sword_with_the_hilt_i_929a3d87-7e5a-4ccc-b27b-1e56c0c5cd7f-512x512.webp",
+    "targetFolder": "pc-images",
+    "referencedBy": [
+      "Actors/Stations/Ethernaut",
+      "Actors/Stations/Navigator"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/media/home/_faight/_shared/tiles/UI/faight1iq_A_world_of_Warcraft_Icon_a_blue_shield_surrounded_by__55f16839-949f-4f42-bab7-bf019e94fe9c-512x512.webp",
+    "sourcePath": "/media/home/_faight/_shared/tiles/UI/faight1iq_A_world_of_Warcraft_Icon_a_blue_shield_surrounded_by__55f16839-949f-4f42-bab7-bf019e94fe9c-512x512.webp",
+    "targetRepoPath": "assets/pc-images/faight1iq_A_world_of_Warcraft_Icon_a_blue_shield_surrounded_by__55f16839-949f-4f42-bab7-bf019e94fe9c-512x512.webp",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/pc-images/faight1iq_A_world_of_Warcraft_Icon_a_blue_shield_surrounded_by__55f16839-949f-4f42-bab7-bf019e94fe9c-512x512.webp",
+    "filename": "faight1iq_A_world_of_Warcraft_Icon_a_blue_shield_surrounded_by__55f16839-949f-4f42-bab7-bf019e94fe9c-512x512.webp",
+    "targetFolder": "pc-images",
+    "referencedBy": [
+      "Actors/Stations/Ethernaut",
+      "Actors/Stations/Navigator"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/media/home/_faight/_shared/tiles/UI/faight1iq_A_world_of_Warcraft_Icon_A_damaged_wooden_ships_deck__a319dfb7-7232-479c-9c69-eac7e4659e73-512x512.webp",
+    "sourcePath": "/media/home/_faight/_shared/tiles/UI/faight1iq_A_world_of_Warcraft_Icon_A_damaged_wooden_ships_deck__a319dfb7-7232-479c-9c69-eac7e4659e73-512x512.webp",
+    "targetRepoPath": "assets/pc-images/faight1iq_A_world_of_Warcraft_Icon_A_damaged_wooden_ships_deck__a319dfb7-7232-479c-9c69-eac7e4659e73-512x512.webp",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/pc-images/faight1iq_A_world_of_Warcraft_Icon_A_damaged_wooden_ships_deck__a319dfb7-7232-479c-9c69-eac7e4659e73-512x512.webp",
+    "filename": "faight1iq_A_world_of_Warcraft_Icon_A_damaged_wooden_ships_deck__a319dfb7-7232-479c-9c69-eac7e4659e73-512x512.webp",
+    "targetFolder": "pc-images",
+    "referencedBy": [
+      "Actors/Mishaps/Fire Mishap",
+      "Actors/Mishaps/Overload Mishap"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/media/home/Tokens/faight1iq_A_world_of_Warcraft_Icon_The_ship_tilts_perilously_it_cbbe8548-07a8-4135-85d8-977a81f5689d-512x512.webp",
+    "sourcePath": "/media/home/Tokens/faight1iq_A_world_of_Warcraft_Icon_The_ship_tilts_perilously_it_cbbe8548-07a8-4135-85d8-977a81f5689d-512x512.webp",
+    "targetRepoPath": "assets/pc-images/faight1iq_A_world_of_Warcraft_Icon_The_ship_tilts_perilously_it_cbbe8548-07a8-4135-85d8-977a81f5689d-512x512.webp",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/pc-images/faight1iq_A_world_of_Warcraft_Icon_The_ship_tilts_perilously_it_cbbe8548-07a8-4135-85d8-977a81f5689d-512x512.webp",
+    "filename": "faight1iq_A_world_of_Warcraft_Icon_The_ship_tilts_perilously_it_cbbe8548-07a8-4135-85d8-977a81f5689d-512x512.webp",
+    "targetFolder": "pc-images",
+    "referencedBy": [
+      "Actors/Mishaps/Founder Mishap"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/media/home/_faight/_shared/tiles/UI/faight1iq_A_world_of_Warcraft_Icon_The_sails_sag_lifelessly_the_295f71e4-f34f-4cfd-a83b-5ba91f2943e6-512x512.webp",
+    "sourcePath": "/media/home/_faight/_shared/tiles/UI/faight1iq_A_world_of_Warcraft_Icon_The_sails_sag_lifelessly_the_295f71e4-f34f-4cfd-a83b-5ba91f2943e6-512x512.webp",
+    "targetRepoPath": "assets/pc-images/faight1iq_A_world_of_Warcraft_Icon_The_sails_sag_lifelessly_the_295f71e4-f34f-4cfd-a83b-5ba91f2943e6-512x512.webp",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/pc-images/faight1iq_A_world_of_Warcraft_Icon_The_sails_sag_lifelessly_the_295f71e4-f34f-4cfd-a83b-5ba91f2943e6-512x512.webp",
+    "filename": "faight1iq_A_world_of_Warcraft_Icon_The_sails_sag_lifelessly_the_295f71e4-f34f-4cfd-a83b-5ba91f2943e6-512x512.webp",
+    "targetFolder": "pc-images",
+    "referencedBy": [
+      "Actors/Mishaps/Founder Mishap"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/media/home/_faight/_shared/tiles/UI/faight1iq_A_world_of_Warcraft_Icon_A_heavy_wooden_crate_snaps_l_da5f3fc1-b660-4e05-a9f1-90c488b9fe1b-512x512.webp",
+    "sourcePath": "/media/home/_faight/_shared/tiles/UI/faight1iq_A_world_of_Warcraft_Icon_A_heavy_wooden_crate_snaps_l_da5f3fc1-b660-4e05-a9f1-90c488b9fe1b-512x512.webp",
+    "targetRepoPath": "assets/pc-images/faight1iq_A_world_of_Warcraft_Icon_A_heavy_wooden_crate_snaps_l_da5f3fc1-b660-4e05-a9f1-90c488b9fe1b-512x512.webp",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/pc-images/faight1iq_A_world_of_Warcraft_Icon_A_heavy_wooden_crate_snaps_l_da5f3fc1-b660-4e05-a9f1-90c488b9fe1b-512x512.webp",
+    "filename": "faight1iq_A_world_of_Warcraft_Icon_A_heavy_wooden_crate_snaps_l_da5f3fc1-b660-4e05-a9f1-90c488b9fe1b-512x512.webp",
+    "targetFolder": "pc-images",
+    "referencedBy": [
+      "Actors/Mishaps/Founder Mishap",
+      "Actors/Mishaps/Listing Mishap"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/media/home/_faight/_shared/tiles/UI/faight1iq_A_world_of_Warcraft_Icon_The_ship_leans_sharply_to_on_7b470fc8-e55d-45de-92ca-2b7246e6828f.webp",
+    "sourcePath": "/media/home/_faight/_shared/tiles/UI/faight1iq_A_world_of_Warcraft_Icon_The_ship_leans_sharply_to_on_7b470fc8-e55d-45de-92ca-2b7246e6828f.webp",
+    "targetRepoPath": "assets/pc-images/faight1iq_A_world_of_Warcraft_Icon_The_ship_leans_sharply_to_on_7b470fc8-e55d-45de-92ca-2b7246e6828f.webp",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/pc-images/faight1iq_A_world_of_Warcraft_Icon_The_ship_leans_sharply_to_on_7b470fc8-e55d-45de-92ca-2b7246e6828f.webp",
+    "filename": "faight1iq_A_world_of_Warcraft_Icon_The_ship_leans_sharply_to_on_7b470fc8-e55d-45de-92ca-2b7246e6828f.webp",
+    "targetFolder": "pc-images",
+    "referencedBy": [
+      "Actors/Mishaps/Listing Mishap"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/media/home/_faight/_shared/tiles/UI/faight1iq_A_world_of_Warcraft_Icon_The_ships_wheel_spins_wildly_9a5749c5-02b5-4089-b8ab-9b9c0a6abc56-512x512.webp",
+    "sourcePath": "/media/home/_faight/_shared/tiles/UI/faight1iq_A_world_of_Warcraft_Icon_The_ships_wheel_spins_wildly_9a5749c5-02b5-4089-b8ab-9b9c0a6abc56-512x512.webp",
+    "targetRepoPath": "assets/pc-images/faight1iq_A_world_of_Warcraft_Icon_The_ships_wheel_spins_wildly_9a5749c5-02b5-4089-b8ab-9b9c0a6abc56-512x512.webp",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/pc-images/faight1iq_A_world_of_Warcraft_Icon_The_ships_wheel_spins_wildly_9a5749c5-02b5-4089-b8ab-9b9c0a6abc56-512x512.webp",
+    "filename": "faight1iq_A_world_of_Warcraft_Icon_The_ships_wheel_spins_wildly_9a5749c5-02b5-4089-b8ab-9b9c0a6abc56-512x512.webp",
+    "targetFolder": "pc-images",
+    "referencedBy": [
+      "Actors/Mishaps/Listing Mishap",
+      "Actors/Mishaps/Rigging Failure Mishap",
+      "Actors/Mishaps/Wind Sheer Mishap"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/media/home/faight1iq_in_the_style_of_A_world_of_Warcraft_Icon_subject_a_st_6c74fdf6-b5be-4ba4-bcea-4b0982e12df4-512x512.webp",
+    "sourcePath": "/media/home/faight1iq_in_the_style_of_A_world_of_Warcraft_Icon_subject_a_st_6c74fdf6-b5be-4ba4-bcea-4b0982e12df4-512x512.webp",
+    "targetRepoPath": "assets/pc-images/faight1iq_in_the_style_of_A_world_of_Warcraft_Icon_subject_a_st_6c74fdf6-b5be-4ba4-bcea-4b0982e12df4-512x512.webp",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/pc-images/faight1iq_in_the_style_of_A_world_of_Warcraft_Icon_subject_a_st_6c74fdf6-b5be-4ba4-bcea-4b0982e12df4-512x512.webp",
+    "filename": "faight1iq_in_the_style_of_A_world_of_Warcraft_Icon_subject_a_st_6c74fdf6-b5be-4ba4-bcea-4b0982e12df4-512x512.webp",
+    "targetFolder": "pc-images",
+    "referencedBy": [
+      "Actors/Mishaps/Loss-of-Power Mishap"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/media/home/_faight/_shared/tiles/UI/faight1iq_A_world_of_Warcraft_Icon_The_ship_drifts_aimlessly_it_31d35704-e743-4cf2-b730-5432ac116e71-512x512.webp",
+    "sourcePath": "/media/home/_faight/_shared/tiles/UI/faight1iq_A_world_of_Warcraft_Icon_The_ship_drifts_aimlessly_it_31d35704-e743-4cf2-b730-5432ac116e71-512x512.webp",
+    "targetRepoPath": "assets/pc-images/faight1iq_A_world_of_Warcraft_Icon_The_ship_drifts_aimlessly_it_31d35704-e743-4cf2-b730-5432ac116e71-512x512.webp",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/pc-images/faight1iq_A_world_of_Warcraft_Icon_The_ship_drifts_aimlessly_it_31d35704-e743-4cf2-b730-5432ac116e71-512x512.webp",
+    "filename": "faight1iq_A_world_of_Warcraft_Icon_The_ship_drifts_aimlessly_it_31d35704-e743-4cf2-b730-5432ac116e71-512x512.webp",
+    "targetFolder": "pc-images",
+    "referencedBy": [
+      "Actors/Mishaps/Loss-of-Speed Mishap"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/media/home/_faight/_shared/tiles/UI/faight1iq_in_the_style_of_A_world_of_Warcraft_Icon_subject_an_i_63c10cf9-4b62-49e6-972a-11158cdfb3eb-512x512.webp",
+    "sourcePath": "/media/home/_faight/_shared/tiles/UI/faight1iq_in_the_style_of_A_world_of_Warcraft_Icon_subject_an_i_63c10cf9-4b62-49e6-972a-11158cdfb3eb-512x512.webp",
+    "targetRepoPath": "assets/pc-images/faight1iq_in_the_style_of_A_world_of_Warcraft_Icon_subject_an_i_63c10cf9-4b62-49e6-972a-11158cdfb3eb-512x512.webp",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/pc-images/faight1iq_in_the_style_of_A_world_of_Warcraft_Icon_subject_an_i_63c10cf9-4b62-49e6-972a-11158cdfb3eb-512x512.webp",
+    "filename": "faight1iq_in_the_style_of_A_world_of_Warcraft_Icon_subject_an_i_63c10cf9-4b62-49e6-972a-11158cdfb3eb-512x512.webp",
+    "targetFolder": "pc-images",
+    "referencedBy": [
+      "Actors/Mishaps/Missfire Mishap",
+      "Actors/Mishaps/Targeting Failure Mishap"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/media/home/_faight/_shared/tiles/UI/faight1iq_The_gun_crew_freezes_as_the_cannons_rammer_sticks_fas_d00c20ff-644f-4e3f-830d-06df59eb8db3.png",
+    "sourcePath": "/media/home/_faight/_shared/tiles/UI/faight1iq_The_gun_crew_freezes_as_the_cannons_rammer_sticks_fas_d00c20ff-644f-4e3f-830d-06df59eb8db3.png",
+    "targetRepoPath": "assets/pc-images/faight1iq_The_gun_crew_freezes_as_the_cannons_rammer_sticks_fas_d00c20ff-644f-4e3f-830d-06df59eb8db3.png",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/pc-images/faight1iq_The_gun_crew_freezes_as_the_cannons_rammer_sticks_fas_d00c20ff-644f-4e3f-830d-06df59eb8db3.png",
+    "filename": "faight1iq_The_gun_crew_freezes_as_the_cannons_rammer_sticks_fas_d00c20ff-644f-4e3f-830d-06df59eb8db3.png",
+    "targetFolder": "pc-images",
+    "referencedBy": [
+      "Actors/Mishaps/Missfire Mishap"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/media/home/operator_injury.png",
+    "sourcePath": "/media/home/operator_injury.png",
+    "targetRepoPath": "assets/pc-images/operator_injury.png",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/pc-images/operator_injury.png",
+    "filename": "operator_injury.png",
+    "targetFolder": "pc-images",
+    "referencedBy": [
+      "Actors/Mishaps/Operator Injury Mishap"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/media/home/_faight/_shared/tiles/UI/faight1iq_in_the_style_of_A_world_of_Warcraft_Icon_subject_elec_97a7a658-a08f-4f33-8aa5-2e2a7f8333e7-512x512.webp",
+    "sourcePath": "/media/home/_faight/_shared/tiles/UI/faight1iq_in_the_style_of_A_world_of_Warcraft_Icon_subject_elec_97a7a658-a08f-4f33-8aa5-2e2a7f8333e7-512x512.webp",
+    "targetRepoPath": "assets/pc-images/faight1iq_in_the_style_of_A_world_of_Warcraft_Icon_subject_elec_97a7a658-a08f-4f33-8aa5-2e2a7f8333e7-512x512.webp",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/pc-images/faight1iq_in_the_style_of_A_world_of_Warcraft_Icon_subject_elec_97a7a658-a08f-4f33-8aa5-2e2a7f8333e7-512x512.webp",
+    "filename": "faight1iq_in_the_style_of_A_world_of_Warcraft_Icon_subject_elec_97a7a658-a08f-4f33-8aa5-2e2a7f8333e7-512x512.webp",
+    "targetFolder": "pc-images",
+    "referencedBy": [
+      "Actors/Mishaps/Overload Mishap"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/media/home/_faight/_shared/tiles/UI/faight1iq_in_the_style_of_A_world_of_Warcraft_Icon_subject_a_st_6c74fdf6-b5be-4ba4-bcea-4b0982e12df4-512x512.webp",
+    "sourcePath": "/media/home/_faight/_shared/tiles/UI/faight1iq_in_the_style_of_A_world_of_Warcraft_Icon_subject_a_st_6c74fdf6-b5be-4ba4-bcea-4b0982e12df4-512x512.webp",
+    "targetRepoPath": "assets/pc-images/faight1iq_in_the_style_of_A_world_of_Warcraft_Icon_subject_a_st_6c74fdf6-b5be-4ba4-bcea-4b0982e12df4-512x512.webp",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/pc-images/faight1iq_in_the_style_of_A_world_of_Warcraft_Icon_subject_a_st_6c74fdf6-b5be-4ba4-bcea-4b0982e12df4-512x512.webp",
+    "filename": "faight1iq_in_the_style_of_A_world_of_Warcraft_Icon_subject_a_st_6c74fdf6-b5be-4ba4-bcea-4b0982e12df4-512x512.webp",
+    "targetFolder": "pc-images",
+    "referencedBy": [
+      "Actors/Mishaps/Overpower Mishap"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/media/home/Tokens/Random%20Mishap.png",
+    "sourcePath": "/media/home/Tokens/Random%20Mishap.png",
+    "targetRepoPath": "assets/pc-images/Random Mishap.png",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/pc-images/Random Mishap.png",
+    "filename": "Random Mishap.png",
+    "targetFolder": "pc-images",
+    "referencedBy": [
+      "Actors/Mishaps/Power Hungry Mishap"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/media/home/Tokens/power_surge.png",
+    "sourcePath": "/media/home/Tokens/power_surge.png",
+    "targetRepoPath": "assets/pc-images/power_surge.png",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/pc-images/power_surge.png",
+    "filename": "power_surge.png",
+    "targetFolder": "pc-images",
+    "referencedBy": [
+      "Actors/Mishaps/Power Hungry Mishap"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/media/home/_faight/_shared/tiles/UI/faight1iq_in_the_style_of_A_world_of_Warcraft_Icon_subject_gree_06e0d508-12e8-4bb5-aa05-5251c1bc145d-512x512.webp",
+    "sourcePath": "/media/home/_faight/_shared/tiles/UI/faight1iq_in_the_style_of_A_world_of_Warcraft_Icon_subject_gree_06e0d508-12e8-4bb5-aa05-5251c1bc145d-512x512.webp",
+    "targetRepoPath": "assets/pc-images/faight1iq_in_the_style_of_A_world_of_Warcraft_Icon_subject_gree_06e0d508-12e8-4bb5-aa05-5251c1bc145d-512x512.webp",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/pc-images/faight1iq_in_the_style_of_A_world_of_Warcraft_Icon_subject_gree_06e0d508-12e8-4bb5-aa05-5251c1bc145d-512x512.webp",
+    "filename": "faight1iq_in_the_style_of_A_world_of_Warcraft_Icon_subject_gree_06e0d508-12e8-4bb5-aa05-5251c1bc145d-512x512.webp",
+    "targetFolder": "pc-images",
+    "referencedBy": [
+      "Actors/Mishaps/Radiation Mishap"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/media/home/_faight/_shared/tiles/UI/faight1iq_in_the_style_of_A_world_of_Warcraft_Icon_subject_b3f1e123-3175-4e54-b616-661abc5bcde6-512x512.webp",
+    "sourcePath": "/media/home/_faight/_shared/tiles/UI/faight1iq_in_the_style_of_A_world_of_Warcraft_Icon_subject_b3f1e123-3175-4e54-b616-661abc5bcde6-512x512.webp",
+    "targetRepoPath": "assets/pc-images/faight1iq_in_the_style_of_A_world_of_Warcraft_Icon_subject_b3f1e123-3175-4e54-b616-661abc5bcde6-512x512.webp",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/pc-images/faight1iq_in_the_style_of_A_world_of_Warcraft_Icon_subject_b3f1e123-3175-4e54-b616-661abc5bcde6-512x512.webp",
+    "filename": "faight1iq_in_the_style_of_A_world_of_Warcraft_Icon_subject_b3f1e123-3175-4e54-b616-661abc5bcde6-512x512.webp",
+    "targetFolder": "pc-images",
+    "referencedBy": [
+      "Actors/Mishaps/Radiation Mishap"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/media/home/_faight/_shared/tiles/UI/faight1iq_in_the_style_of_A_world_of_Warcraft_Icon_subject_a_re_b8817b58-e4d4-4aba-9340-b6ff30cce677-512x512.webp",
+    "sourcePath": "/media/home/_faight/_shared/tiles/UI/faight1iq_in_the_style_of_A_world_of_Warcraft_Icon_subject_a_re_b8817b58-e4d4-4aba-9340-b6ff30cce677-512x512.webp",
+    "targetRepoPath": "assets/pc-images/faight1iq_in_the_style_of_A_world_of_Warcraft_Icon_subject_a_re_b8817b58-e4d4-4aba-9340-b6ff30cce677-512x512.webp",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/pc-images/faight1iq_in_the_style_of_A_world_of_Warcraft_Icon_subject_a_re_b8817b58-e4d4-4aba-9340-b6ff30cce677-512x512.webp",
+    "filename": "faight1iq_in_the_style_of_A_world_of_Warcraft_Icon_subject_a_re_b8817b58-e4d4-4aba-9340-b6ff30cce677-512x512.webp",
+    "targetFolder": "pc-images",
+    "referencedBy": [
+      "Actors/Mishaps/Radiation Mishap"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/media/home/_faight/_shared/tiles/UI/faight1iq_A_world_of_Warcraft_Icon_A_thick_ships_rope_whips_vio_5f84d83a-c353-4974-a555-be959a800567-512x512.webp",
+    "sourcePath": "/media/home/_faight/_shared/tiles/UI/faight1iq_A_world_of_Warcraft_Icon_A_thick_ships_rope_whips_vio_5f84d83a-c353-4974-a555-be959a800567-512x512.webp",
+    "targetRepoPath": "assets/pc-images/faight1iq_A_world_of_Warcraft_Icon_A_thick_ships_rope_whips_vio_5f84d83a-c353-4974-a555-be959a800567-512x512.webp",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/pc-images/faight1iq_A_world_of_Warcraft_Icon_A_thick_ships_rope_whips_vio_5f84d83a-c353-4974-a555-be959a800567-512x512.webp",
+    "filename": "faight1iq_A_world_of_Warcraft_Icon_A_thick_ships_rope_whips_vio_5f84d83a-c353-4974-a555-be959a800567-512x512.webp",
+    "targetFolder": "pc-images",
+    "referencedBy": [
+      "Actors/Mishaps/Rigging Failure Mishap"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/media/home/_faight/_shared/tiles/UI/faight1iq_in_the_style_of_A_world_of_Warcraft_Icon_subject_a_cl_a4d52a6a-72ce-406e-a886-14e488ff0631.webp",
+    "sourcePath": "/media/home/_faight/_shared/tiles/UI/faight1iq_in_the_style_of_A_world_of_Warcraft_Icon_subject_a_cl_a4d52a6a-72ce-406e-a886-14e488ff0631.webp",
+    "targetRepoPath": "assets/pc-images/faight1iq_in_the_style_of_A_world_of_Warcraft_Icon_subject_a_cl_a4d52a6a-72ce-406e-a886-14e488ff0631.webp",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/pc-images/faight1iq_in_the_style_of_A_world_of_Warcraft_Icon_subject_a_cl_a4d52a6a-72ce-406e-a886-14e488ff0631.webp",
+    "filename": "faight1iq_in_the_style_of_A_world_of_Warcraft_Icon_subject_a_cl_a4d52a6a-72ce-406e-a886-14e488ff0631.webp",
+    "targetFolder": "pc-images",
+    "referencedBy": [
+      "Actors/CH07c: The Sword of Kas/Seralyth Deshira"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/media/home/_faight/_shared/icons/items/arcane_turret.png",
+    "sourcePath": "/media/home/_faight/_shared/icons/items/arcane_turret.png",
+    "targetRepoPath": "assets/pc-images/arcane_turret.png",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/pc-images/arcane_turret.png",
+    "filename": "arcane_turret.png",
+    "targetFolder": "pc-images",
+    "referencedBy": [
+      "Actors/Vehicles/Serena Gale"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/media/home/_faight/_shared/icons/items/veor-ch07c-astral_skiff_transparent_token.webp",
+    "sourcePath": "/media/home/_faight/_shared/icons/items/veor-ch07c-astral_skiff_transparent_token.webp",
+    "targetRepoPath": "assets/pc-images/veor-ch07c-astral_skiff_transparent_token.webp",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/pc-images/veor-ch07c-astral_skiff_transparent_token.webp",
+    "filename": "veor-ch07c-astral_skiff_transparent_token.webp",
+    "targetFolder": "pc-images",
+    "referencedBy": [
+      "Actors/Vehicles/Serena Gale"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/media/home/_faight/_shared/icons/UI/demonic_red_fire_circle_eyes.png",
+    "sourcePath": "/media/home/_faight/_shared/icons/UI/demonic_red_fire_circle_eyes.png",
+    "targetRepoPath": "assets/pc-images/demonic_red_fire_circle_eyes.png",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/pc-images/demonic_red_fire_circle_eyes.png",
+    "filename": "demonic_red_fire_circle_eyes.png",
+    "targetFolder": "pc-images",
+    "referencedBy": [
+      "Actors/Horned Legion/Varioyev, Devil Commander of the Horned Legion"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/media/home/_faight/_shared/icons/UI/demonic_purple_fire_circle_eyes.png",
+    "sourcePath": "/media/home/_faight/_shared/icons/UI/demonic_purple_fire_circle_eyes.png",
+    "targetRepoPath": "assets/pc-images/demonic_purple_fire_circle_eyes.png",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/pc-images/demonic_purple_fire_circle_eyes.png",
+    "filename": "demonic_purple_fire_circle_eyes.png",
+    "targetFolder": "pc-images",
+    "referencedBy": [
+      "Actors/Horned Legion/Varioyev, Devil Commander of the Horned Legion"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/media/home/_faight/_shared/icons/UI/hellfire_claw_red.png",
+    "sourcePath": "/media/home/_faight/_shared/icons/UI/hellfire_claw_red.png",
+    "targetRepoPath": "assets/pc-images/hellfire_claw_red.png",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/pc-images/hellfire_claw_red.png",
+    "filename": "hellfire_claw_red.png",
+    "targetFolder": "pc-images",
+    "referencedBy": [
+      "Actors/Horned Legion/Varioyev, Devil Commander of the Horned Legion"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/media/home/_faight/_shared/icons/UI/demonic_hand_purple_chains.png",
+    "sourcePath": "/media/home/_faight/_shared/icons/UI/demonic_hand_purple_chains.png",
+    "targetRepoPath": "assets/pc-images/demonic_hand_purple_chains.png",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/pc-images/demonic_hand_purple_chains.png",
+    "filename": "demonic_hand_purple_chains.png",
+    "targetFolder": "pc-images",
+    "referencedBy": [
+      "Actors/Horned Legion/Varioyev, Devil Commander of the Horned Legion"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/media/home/_faight/_shared/icons/items/sword_fire_orange.webp",
+    "sourcePath": "/media/home/_faight/_shared/icons/items/sword_fire_orange.webp",
+    "targetRepoPath": "assets/pc-images/sword_fire_orange.webp",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/pc-images/sword_fire_orange.webp",
+    "filename": "sword_fire_orange.webp",
+    "targetFolder": "pc-images",
+    "referencedBy": [
+      "Actors/Horned Legion/Varioyev, Devil Commander of the Horned Legion"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/media/home/_faight/_shared/icons/items/horned_gauntlet.webp",
+    "sourcePath": "/media/home/_faight/_shared/icons/items/horned_gauntlet.webp",
+    "targetRepoPath": "assets/pc-images/horned_gauntlet.webp",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/pc-images/horned_gauntlet.webp",
+    "filename": "horned_gauntlet.webp",
+    "targetFolder": "pc-images",
+    "referencedBy": [
+      "Actors/Horned Legion/Varioyev, Devil Commander of the Horned Legion"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/media/home/_faight/_shared/tiles/UI/faight1iq_in_the_style_of_A_world_of_Warcraft_Icon_subject_many_17d750dd-9c86-4c85-81dc-2c561426817d-512x512.webp",
+    "sourcePath": "/media/home/_faight/_shared/tiles/UI/faight1iq_in_the_style_of_A_world_of_Warcraft_Icon_subject_many_17d750dd-9c86-4c85-81dc-2c561426817d-512x512.webp",
+    "targetRepoPath": "assets/pc-images/faight1iq_in_the_style_of_A_world_of_Warcraft_Icon_subject_many_17d750dd-9c86-4c85-81dc-2c561426817d-512x512.webp",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/pc-images/faight1iq_in_the_style_of_A_world_of_Warcraft_Icon_subject_many_17d750dd-9c86-4c85-81dc-2c561426817d-512x512.webp",
+    "filename": "faight1iq_in_the_style_of_A_world_of_Warcraft_Icon_subject_many_17d750dd-9c86-4c85-81dc-2c561426817d-512x512.webp",
+    "targetFolder": "pc-images",
+    "referencedBy": [
+      "Actors/Mishaps/Wild Magic Mishap"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/media/home/_Art/faight1iq_The_bottom_of_the_stairway_opens_into_a_wide_sanctuar_0baf0d2e-57d0-415e-95b9-55b8b5c40d1a.png",
+    "sourcePath": "/media/home/_Art/faight1iq_The_bottom_of_the_stairway_opens_into_a_wide_sanctuar_0baf0d2e-57d0-415e-95b9-55b8b5c40d1a.png",
+    "targetRepoPath": "assets/misc/journals/faight1iq_The_bottom_of_the_stairway_opens_into_a_wide_sanctuar_0baf0d2e-57d0-415e-95b9-55b8b5c40d1a.png",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/misc/journals/faight1iq_The_bottom_of_the_stairway_opens_into_a_wide_sanctuar_0baf0d2e-57d0-415e-95b9-55b8b5c40d1a.png",
+    "filename": "faight1iq_The_bottom_of_the_stairway_opens_into_a_wide_sanctuar_0baf0d2e-57d0-415e-95b9-55b8b5c40d1a.png",
+    "targetFolder": "misc/journals",
+    "referencedBy": [
+      "Journals/Map Notes"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/media/home/_sounds/Music/Aftermath.mp3",
+    "sourcePath": "/media/home/_sounds/Music/Aftermath.mp3",
+    "targetRepoPath": "assets/sounds/Aftermath.mp3",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/sounds/Aftermath.mp3",
+    "filename": "Aftermath.mp3",
+    "targetFolder": "sounds",
+    "referencedBy": [
+      "Playlists/01 The Power of Secrets"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/media/home/_sounds/Music/Background%20Ambience.mp3",
+    "sourcePath": "/media/home/_sounds/Music/Background%20Ambience.mp3",
+    "targetRepoPath": "assets/sounds/Background Ambience.mp3",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/sounds/Background Ambience.mp3",
+    "filename": "Background Ambience.mp3",
+    "targetFolder": "sounds",
+    "referencedBy": [
+      "Playlists/01 The Power of Secrets"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/media/home/_sounds/Music/Bleak%20Orchestral%20Ambience.mp3",
+    "sourcePath": "/media/home/_sounds/Music/Bleak%20Orchestral%20Ambience.mp3",
+    "targetRepoPath": "assets/sounds/Bleak Orchestral Ambience.mp3",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/sounds/Bleak Orchestral Ambience.mp3",
+    "filename": "Bleak Orchestral Ambience.mp3",
+    "targetFolder": "sounds",
+    "referencedBy": [
+      "Playlists/01 The Power of Secrets",
+      "Playlists/Sadness"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/media/home/_sounds/Music/Isolation.mp3",
+    "sourcePath": "/media/home/_sounds/Music/Isolation.mp3",
+    "targetRepoPath": "assets/sounds/Isolation.mp3",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/sounds/Isolation.mp3",
+    "filename": "Isolation.mp3",
+    "targetFolder": "sounds",
+    "referencedBy": [
+      "Playlists/01 The Power of Secrets",
+      "Playlists/Lesser Caverns"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/media/home/_sounds/Music/Layers%20of%20Fear%20Piano.mp3",
+    "sourcePath": "/media/home/_sounds/Music/Layers%20of%20Fear%20Piano.mp3",
+    "targetRepoPath": "assets/sounds/Layers of Fear Piano.mp3",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/sounds/Layers of Fear Piano.mp3",
+    "filename": "Layers of Fear Piano.mp3",
+    "targetFolder": "sounds",
+    "referencedBy": [
+      "Playlists/01 The Power of Secrets",
+      "Playlists/Landing Page"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/media/home/_sounds/Music/Manor%20Estate%20A.mp3",
+    "sourcePath": "/media/home/_sounds/Music/Manor%20Estate%20A.mp3",
+    "targetRepoPath": "assets/sounds/Manor Estate A.mp3",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/sounds/Manor Estate A.mp3",
+    "filename": "Manor Estate A.mp3",
+    "targetFolder": "sounds",
+    "referencedBy": [
+      "Playlists/01 The Power of Secrets"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/media/home/_sounds/Music/Revendreth%20Loop.mp3",
+    "sourcePath": "/media/home/_sounds/Music/Revendreth%20Loop.mp3",
+    "targetRepoPath": "assets/sounds/Revendreth Loop.mp3",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/sounds/Revendreth Loop.mp3",
+    "filename": "Revendreth Loop.mp3",
+    "targetFolder": "sounds",
+    "referencedBy": [
+      "Playlists/01 The Power of Secrets"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/media/home/_sounds/Music/The%20Ether.mp3",
+    "sourcePath": "/media/home/_sounds/Music/The%20Ether.mp3",
+    "targetRepoPath": "assets/sounds/The Ether.mp3",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/sounds/The Ether.mp3",
+    "filename": "The Ether.mp3",
+    "targetFolder": "sounds",
+    "referencedBy": [
+      "Playlists/01 The Power of Secrets"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/media/home/_sounds/Music/The%20Plot%20Thickens.mp3",
+    "sourcePath": "/media/home/_sounds/Music/The%20Plot%20Thickens.mp3",
+    "targetRepoPath": "assets/sounds/The Plot Thickens.mp3",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/sounds/The Plot Thickens.mp3",
+    "filename": "The Plot Thickens.mp3",
+    "targetFolder": "sounds",
+    "referencedBy": [
+      "Playlists/01 The Power of Secrets"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/media/home/_sounds/Music/Wistful.mp3",
+    "sourcePath": "/media/home/_sounds/Music/Wistful.mp3",
+    "targetRepoPath": "assets/sounds/Wistful.mp3",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/sounds/Wistful.mp3",
+    "filename": "Wistful.mp3",
+    "targetFolder": "sounds",
+    "referencedBy": [
+      "Playlists/01 The Power of Secrets"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/media/home/_sounds/Music/Eternal%20Shadows_240930-1525.mp3",
+    "sourcePath": "/media/home/_sounds/Music/Eternal%20Shadows_240930-1525.mp3",
+    "targetRepoPath": "assets/sounds/Eternal Shadows_240930-1525.mp3",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/sounds/Eternal Shadows_240930-1525.mp3",
+    "filename": "Eternal Shadows_240930-1525.mp3",
+    "targetFolder": "sounds",
+    "referencedBy": [
+      "Playlists/06 NoBF"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/media/home/_sounds/Music/Eternal%20Shadows%20v2%20240930-1526.mp3",
+    "sourcePath": "/media/home/_sounds/Music/Eternal%20Shadows%20v2%20240930-1526.mp3",
+    "targetRepoPath": "assets/sounds/Eternal Shadows v2 240930-1526.mp3",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/sounds/Eternal Shadows v2 240930-1526.mp3",
+    "filename": "Eternal Shadows v2 240930-1526.mp3",
+    "targetFolder": "sounds",
+    "referencedBy": [
+      "Playlists/06 NoBF"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/media/home/_sounds/Music/Eternal%20Rhythm_straight_intro_240930-1518.mp3",
+    "sourcePath": "/media/home/_sounds/Music/Eternal%20Rhythm_straight_intro_240930-1518.mp3",
+    "targetRepoPath": "assets/sounds/Eternal Rhythm_straight_intro_240930-1518.mp3",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/sounds/Eternal Rhythm_straight_intro_240930-1518.mp3",
+    "filename": "Eternal Rhythm_straight_intro_240930-1518.mp3",
+    "targetFolder": "sounds",
+    "referencedBy": [
+      "Playlists/06 NoBF"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/media/home/_sounds/Ambience/Deep%20Space%20SFX.wav",
+    "sourcePath": "/media/home/_sounds/Ambience/Deep%20Space%20SFX.wav",
+    "targetRepoPath": "assets/sounds/Deep Space SFX.wav",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/sounds/Deep Space SFX.wav",
+    "filename": "Deep Space SFX.wav",
+    "targetFolder": "sounds",
+    "referencedBy": [
+      "Playlists/Astral Realm"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/media/home/_sounds/Ambience/The%20Void.wav",
+    "sourcePath": "/media/home/_sounds/Ambience/The%20Void.wav",
+    "targetRepoPath": "assets/sounds/The Void.wav",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/sounds/The Void.wav",
+    "filename": "The Void.wav",
+    "targetFolder": "sounds",
+    "referencedBy": [
+      "Playlists/Astral Realm"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/media/home/_sounds/Music/Discontent.mp3",
+    "sourcePath": "/media/home/_sounds/Music/Discontent.mp3",
+    "targetRepoPath": "assets/sounds/Discontent.mp3",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/sounds/Discontent.mp3",
+    "filename": "Discontent.mp3",
+    "targetFolder": "sounds",
+    "referencedBy": [
+      "Playlists/Combat"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/media/home/_sounds/Music/Music%20Box.mp3",
+    "sourcePath": "/media/home/_sounds/Music/Music%20Box.mp3",
+    "targetRepoPath": "assets/sounds/Music Box.mp3",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/sounds/Music Box.mp3",
+    "filename": "Music Box.mp3",
+    "targetFolder": "sounds",
+    "referencedBy": [
+      "Playlists/Landing Page"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/media/home/_sounds/Music/Carnival%20II.mp3",
+    "sourcePath": "/media/home/_sounds/Music/Carnival%20II.mp3",
+    "targetRepoPath": "assets/sounds/Carnival II.mp3",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/sounds/Carnival II.mp3",
+    "filename": "Carnival II.mp3",
+    "targetFolder": "sounds",
+    "referencedBy": [
+      "Playlists/Landing Page"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/media/home/_sounds/Music/Cold%20Piano.mp3",
+    "sourcePath": "/media/home/_sounds/Music/Cold%20Piano.mp3",
+    "targetRepoPath": "assets/sounds/Cold Piano.mp3",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/sounds/Cold Piano.mp3",
+    "filename": "Cold Piano.mp3",
+    "targetFolder": "sounds",
+    "referencedBy": [
+      "Playlists/Landing Page"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/media/home/_sounds/FX/Psychic%20Scream.mp3",
+    "sourcePath": "/media/home/_sounds/FX/Psychic%20Scream.mp3",
+    "targetRepoPath": "assets/sounds/Psychic Scream.mp3",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/sounds/Psychic Scream.mp3",
+    "filename": "Psychic Scream.mp3",
+    "targetFolder": "sounds",
+    "referencedBy": [
+      "Playlists/Lesser Caverns"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/media/home/_sounds/Music/A%20Bad%20Outcome.mp3",
+    "sourcePath": "/media/home/_sounds/Music/A%20Bad%20Outcome.mp3",
+    "targetRepoPath": "assets/sounds/A Bad Outcome.mp3",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/sounds/A Bad Outcome.mp3",
+    "filename": "A Bad Outcome.mp3",
+    "targetFolder": "sounds",
+    "referencedBy": [
+      "Playlists/Lesser Caverns"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/media/home/_sounds/Music/Ambient%20Strings%20Dark%20With%20Key%20Change.mp3",
+    "sourcePath": "/media/home/_sounds/Music/Ambient%20Strings%20Dark%20With%20Key%20Change.mp3",
+    "targetRepoPath": "assets/sounds/Ambient Strings Dark With Key Change.mp3",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/sounds/Ambient Strings Dark With Key Change.mp3",
+    "filename": "Ambient Strings Dark With Key Change.mp3",
+    "targetFolder": "sounds",
+    "referencedBy": [
+      "Playlists/Lesser Caverns"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/media/home/_sounds/Music/Desocrated%20Sanctum.mp3",
+    "sourcePath": "/media/home/_sounds/Music/Desocrated%20Sanctum.mp3",
+    "targetRepoPath": "assets/sounds/Desocrated Sanctum.mp3",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/sounds/Desocrated Sanctum.mp3",
+    "filename": "Desocrated Sanctum.mp3",
+    "targetFolder": "sounds",
+    "referencedBy": [
+      "Playlists/Lesser Caverns",
+      "Playlists/Sadness"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/media/home/_sounds/Music/Summoners%20Circle.mp3",
+    "sourcePath": "/media/home/_sounds/Music/Summoners%20Circle.mp3",
+    "targetRepoPath": "assets/sounds/Summoners Circle.mp3",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/sounds/Summoners Circle.mp3",
+    "filename": "Summoners Circle.mp3",
+    "targetFolder": "sounds",
+    "referencedBy": [
+      "Playlists/Ritual Combat"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/media/home/_sounds/Music/Lord%20of%20Hatred.mp3",
+    "sourcePath": "/media/home/_sounds/Music/Lord%20of%20Hatred.mp3",
+    "targetRepoPath": "assets/sounds/Lord of Hatred.mp3",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/sounds/Lord of Hatred.mp3",
+    "filename": "Lord of Hatred.mp3",
+    "targetFolder": "sounds",
+    "referencedBy": [
+      "Playlists/Ritual Combat"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/media/home/_sounds/Music/Red%20Room.mp3",
+    "sourcePath": "/media/home/_sounds/Music/Red%20Room.mp3",
+    "targetRepoPath": "assets/sounds/Red Room.mp3",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/sounds/Red Room.mp3",
+    "filename": "Red Room.mp3",
+    "targetFolder": "sounds",
+    "referencedBy": [
+      "Playlists/Ritual Combat"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/media/home/_sounds/Music/Chaotic%20Drums.mp3",
+    "sourcePath": "/media/home/_sounds/Music/Chaotic%20Drums.mp3",
+    "targetRepoPath": "assets/sounds/Chaotic Drums.mp3",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/sounds/Chaotic Drums.mp3",
+    "filename": "Chaotic Drums.mp3",
+    "targetFolder": "sounds",
+    "referencedBy": [
+      "Playlists/Ritual Combat"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/media/home/_sounds/FX/Underwater.mp3",
+    "sourcePath": "/media/home/_sounds/FX/Underwater.mp3",
+    "targetRepoPath": "assets/sounds/Underwater.mp3",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/sounds/Underwater.mp3",
+    "filename": "Underwater.mp3",
+    "targetFolder": "sounds",
+    "referencedBy": [
+      "Playlists/River"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/media/home/_sounds/Music/Dark%20Ambience.mp3",
+    "sourcePath": "/media/home/_sounds/Music/Dark%20Ambience.mp3",
+    "targetRepoPath": "assets/sounds/Dark Ambience.mp3",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/sounds/Dark Ambience.mp3",
+    "filename": "Dark Ambience.mp3",
+    "targetFolder": "sounds",
+    "referencedBy": [
+      "Playlists/Sadness"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/media/home/_sounds/Ambience/Tavern%20Hall%20Soft%20Music.mp3",
+    "sourcePath": "/media/home/_sounds/Ambience/Tavern%20Hall%20Soft%20Music.mp3",
+    "targetRepoPath": "assets/sounds/Tavern Hall Soft Music.mp3",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/sounds/Tavern Hall Soft Music.mp3",
+    "filename": "Tavern Hall Soft Music.mp3",
+    "targetFolder": "sounds",
+    "referencedBy": [
+      "Playlists/Tavern Background"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/media/home/_sounds/FX/final_fantasy_KDr5Pxg.mp3",
+    "sourcePath": "/media/home/_sounds/FX/final_fantasy_KDr5Pxg.mp3",
+    "targetRepoPath": "assets/sounds/final_fantasy_KDr5Pxg.mp3",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/sounds/final_fantasy_KDr5Pxg.mp3",
+    "filename": "final_fantasy_KDr5Pxg.mp3",
+    "targetFolder": "sounds",
+    "referencedBy": [
+      "Playlists/Win Point"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/media/home/_faight/sounds/pxlbay/vecna-eor-finale/creepy-dark-atmosphere-174807.mp3",
+    "sourcePath": "/media/home/_faight/sounds/pxlbay/vecna-eor-finale/creepy-dark-atmosphere-174807.mp3",
+    "targetRepoPath": "assets/sounds/creepy-dark-atmosphere-174807.mp3",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/sounds/creepy-dark-atmosphere-174807.mp3",
+    "filename": "creepy-dark-atmosphere-174807.mp3",
+    "targetFolder": "sounds",
+    "referencedBy": [
+      "Playlists/finale"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/media/home/_faight/sounds/pxlbay/vecna-eor-finale/dark-evil-ghost-190769.mp3",
+    "sourcePath": "/media/home/_faight/sounds/pxlbay/vecna-eor-finale/dark-evil-ghost-190769.mp3",
+    "targetRepoPath": "assets/sounds/dark-evil-ghost-190769.mp3",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/sounds/dark-evil-ghost-190769.mp3",
+    "filename": "dark-evil-ghost-190769.mp3",
+    "targetFolder": "sounds",
+    "referencedBy": [
+      "Playlists/finale"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/media/home/_faight/sounds/pxlbay/vecna-eor-finale/dark-mysterious-otherworldly-cinematic-ambient-soundtrack-226421.mp3",
+    "sourcePath": "/media/home/_faight/sounds/pxlbay/vecna-eor-finale/dark-mysterious-otherworldly-cinematic-ambient-soundtrack-226421.mp3",
+    "targetRepoPath": "assets/sounds/dark-mysterious-otherworldly-cinematic-ambient-soundtrack-226421.mp3",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/sounds/dark-mysterious-otherworldly-cinematic-ambient-soundtrack-226421.mp3",
+    "filename": "dark-mysterious-otherworldly-cinematic-ambient-soundtrack-226421.mp3",
+    "targetFolder": "sounds",
+    "referencedBy": [
+      "Playlists/finale"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/media/home/_faight/sounds/pxlbay/vecna-eor-finale/ritual-159344.mp3",
+    "sourcePath": "/media/home/_faight/sounds/pxlbay/vecna-eor-finale/ritual-159344.mp3",
+    "targetRepoPath": "assets/sounds/ritual-159344.mp3",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/sounds/ritual-159344.mp3",
+    "filename": "ritual-159344.mp3",
+    "targetFolder": "sounds",
+    "referencedBy": [
+      "Playlists/finale"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/media/home/_faight/sounds/pxlbay/vecna-eor-finale/follows-dark-ambient-194926.mp3",
+    "sourcePath": "/media/home/_faight/sounds/pxlbay/vecna-eor-finale/follows-dark-ambient-194926.mp3",
+    "targetRepoPath": "assets/sounds/follows-dark-ambient-194926.mp3",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/sounds/follows-dark-ambient-194926.mp3",
+    "filename": "follows-dark-ambient-194926.mp3",
+    "targetFolder": "sounds",
+    "referencedBy": [
+      "Playlists/finale"
+    ]
+  },
+  {
+    "sourceUrl": "https://faight-vecna-eve-of-ruin-b6dc7092.games.sqyre.app/media/home/_faight/sounds/pxlbay/vecna-eor-finale/horror-dark-cinematic-music-255259.mp3",
+    "sourcePath": "/media/home/_faight/sounds/pxlbay/vecna-eor-finale/horror-dark-cinematic-music-255259.mp3",
+    "targetRepoPath": "assets/sounds/horror-dark-cinematic-music-255259.mp3",
+    "targetModulePath": "/modules/faight-vecna-eve-of-ruin/assets/sounds/horror-dark-cinematic-music-255259.mp3",
+    "filename": "horror-dark-cinematic-music-255259.mp3",
+    "targetFolder": "sounds",
+    "referencedBy": [
+      "Playlists/finale"
+    ]
+  }
+]
