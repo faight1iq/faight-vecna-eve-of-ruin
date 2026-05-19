@@ -2,11 +2,11 @@
   "id": "faight-vecna-eve-of-ruin",
   "title": "Faight - Vecna: Eve of Ruin",
   "description": "A custom compendium module for Vecna: Eve of Ruin — monsters, items, maps, journals, and music.",
-  "version": "1.0.0",
+  "version": "260519-0713",
   "compatibility": {
-    "minimum": "13",
-    "verified": "13",
-    "maximum": "13"
+    "minimum": "01",
+    "verified": "13.351",
+    "maximum": "99"
   },
   "authors": [
     {
