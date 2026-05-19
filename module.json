@@ -1,8 +1,8 @@
 {
   "id": "faight-vecna-eve-of-ruin",
   "title": "Faight - Vecna: Eve of Ruin",
-  "description": "A custom compendium module for Vecna: Eve of Ruin — monsters, items, maps, journals, and music.",
-  "version": "260519-0713",
+  "description": "A custom compendium module for Vecna: Eve of Ruin — actors, items, maps, journals, and music.",
+  "version": "260519.0827",
   "compatibility": {
     "minimum": "01",
     "verified": "13.351",
@@ -26,7 +26,7 @@
   "packs": [
     {
       "name": "monsters",
-      "label": "Monsters",
+      "label": "Actors",
       "path": "packs/monsters",
       "type": "Actor",
       "system": "dnd5e",
@@ -58,7 +58,7 @@
     },
     {
       "name": "scenes",
-      "label": "Maps & Scenes",
+      "label": "Scenes",
       "path": "packs/scenes",
       "type": "Scene",
       "ownership": {
@@ -68,13 +68,26 @@
     },
     {
       "name": "playlists",
-      "label": "Music & Playlists",
+      "label": "Playlists",
       "path": "packs/playlists",
       "type": "Playlist",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "Faight - Vecna: Eve of Ruin",
+      "sorting": "m",
+      "packs": [
+        "monsters",
+        "items",
+        "journals",
+        "scenes",
+        "playlists"
+      ]
     }
   ],
   "languages": [
