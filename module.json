@@ -21,6 +21,28 @@
         "type": "system",
         "compatibility": {}
       }
+    ],
+    "requires": [
+      {
+        "id": "monks-active-tiles",
+        "type": "module"
+      },
+      {
+        "id": "token-attacher",
+        "type": "module"
+      },
+      {
+        "id": "betterroofs",
+        "type": "module"
+      },
+      {
+        "id": "fxmaster",
+        "type": "module"
+      },
+      {
+        "id": "tile-scroll",
+        "type": "module"
+      }
     ]
   },
   "packs": [
