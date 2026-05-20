@@ -2,7 +2,7 @@
   "id": "faight-vecna-eve-of-ruin",
   "title": "Faight - Vecna: Eve of Ruin",
   "description": "A custom compendium module for Vecna: Eve of Ruin — actors, items, maps, journals, and music.",
-  "version": "260519.12.16",
+  "version": "260519.23.30",
   "compatibility": {
     "minimum": "1",
     "verified": "13.351",
@@ -42,61 +42,89 @@
       {
         "id": "tile-scroll",
         "type": "module"
+      },
+      {
+        "id": "tokenmagic",
+        "type": "module"
+      },
+      {
+        "id": "tagger",
+        "type": "module"
       }
     ]
   },
   "packs": [
     {
-      "name": "monsters",
+      "label": "Faight - Vecna: Eve of Ruin",
+      "type": "Adventure",
+      "name": "faight-vecna-eve-of-ruin",
+      "path": "packs/faight-vecna-eve-of-ruin",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
       "label": "Actors",
-      "path": "packs/monsters",
       "type": "Actor",
+      "name": "actors",
+      "path": "packs/actors",
       "system": "dnd5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     },
     {
-      "name": "items",
-      "label": "Items",
-      "path": "packs/items",
-      "type": "Item",
-      "system": "dnd5e",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      }
-    },
-    {
-      "name": "journals",
       "label": "Journals",
-      "path": "packs/journals",
       "type": "JournalEntry",
+      "name": "journals",
+      "path": "packs/journals",
+      "system": "dnd5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     },
     {
-      "name": "scenes",
-      "label": "Scenes",
-      "path": "packs/scenes",
-      "type": "Scene",
+      "label": "Items",
+      "type": "Item",
+      "name": "items",
+      "path": "packs/items",
+      "system": "dnd5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     },
     {
-      "name": "playlists",
       "label": "Playlists",
-      "path": "packs/playlists",
       "type": "Playlist",
+      "name": "playlists",
+      "path": "packs/playlists",
+      "system": "dnd5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
+    },
+    {
+      "label": "Scenes",
+      "type": "Scene",
+      "name": "scenes",
+      "path": "packs/scenes",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
     }
   ],
   "packFolders": [
@@ -104,7 +132,8 @@
       "name": "Faight - Vecna: Eve of Ruin",
       "sorting": "m",
       "packs": [
-        "monsters",
+        "faight-vecna-eve-of-ruin",
+        "actors",
         "items",
         "journals",
         "scenes",
@@ -121,5 +150,5 @@
   ],
   "url": "https://github.com/faight1iq/faight-vecna-eve-of-ruin",
   "manifest": "https://github.com/faight1iq/faight-vecna-eve-of-ruin/releases/latest/download/module.json",
-  "download": "https://github.com/faight1iq/faight-vecna-eve-of-ruin/releases/download/1.0.0/faight-vecna-eve-of-ruin.zip"
+  "download": "https://github.com/faight1iq/faight-vecna-eve-of-ruin/releases/download/260519.12.16/faight-vecna-eve-of-ruin.zip"
 }

@@ -1,7 +1,7 @@
-2026/05/19-12:42:50.944222 7f5d37fff640 Delete type=3 #1
-2026/05/19-12:52:29.584948 7f5aa4fff640 Level-0 table #5: started
-2026/05/19-12:52:29.603496 7f5aa4fff640 Level-0 table #5: 1651645 bytes OK
-2026/05/19-12:52:29.606138 7f5aa4fff640 Delete type=0 #3
-2026/05/19-12:52:55.578979 7f5aa4fff640 Level-0 table #7: started
-2026/05/19-12:52:55.597252 7f5aa4fff640 Level-0 table #7: 1506031 bytes OK
-2026/05/19-12:52:55.599800 7f5aa4fff640 Delete type=0 #4
+2026/05/19-22:54:50.503 c60 Delete type=3 #1
+2026/05/19-22:55:07.517 6cc8 Level-0 table #5: started
+2026/05/19-22:55:07.613 6cc8 Level-0 table #5: 1649334 bytes OK
+2026/05/19-22:55:07.617 6cc8 Delete type=0 #3
+2026/05/19-22:55:25.809 6cc8 Level-0 table #7: started
+2026/05/19-22:55:25.837 6cc8 Level-0 table #7: 1501605 bytes OK
+2026/05/19-22:55:25.840 6cc8 Delete type=0 #4
